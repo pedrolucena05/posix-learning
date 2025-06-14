@@ -20,16 +20,16 @@ In this project, POSIX concepts are applied to simulate the activation of actuat
 ### How to Run
 
 1. cd path/to/project1
-2. make
-3. ./program
+2. open a terminal execute "make"
+3. Execute "./program" command at the same terminal
 
 
 ### Videos
 
-    **Explanation Video**:
+    Explanation Video:
     https://drive.google.com/file/d/1Qw0hX_vkCu9jvhqGbV-jVTibWe3c0SEA/view?usp=sharing
 
-    **Running Video**:
+    Running Video:
     https://drive.google.com/file/d/1Tl1XqonlVNH2gg_Mnt_5RyZBKAdfcBcV/view?usp=sharing
 
 ## Project 2: Raspberry Pi Implementation
@@ -39,7 +39,7 @@ This project applies the same concepts on a Raspberry Pi board. It monitors butt
 ### How to Run(Assuming you have cross‑compiled or compiled on the Pi itself)
 
 1. cd path/to/project2 
-2. make 
+2. open make 
 3. ./program 
 
 ## **Videos**
