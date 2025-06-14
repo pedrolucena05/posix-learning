@@ -23,6 +23,7 @@ In this project, POSIX concepts are applied to simulate the activation of actuat
 cd path/to/project1
 make
 ./program
+```
 
 ### Videos
 
