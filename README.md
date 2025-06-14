@@ -25,12 +25,12 @@ In this project, POSIX concepts are applied to simulate the activation of actuat
 
 
 ### Videos
+   
+    - Explanation Video:
+    - https://drive.google.com/file/d/1Qw0hX_vkCu9jvhqGbV-jVTibWe3c0SEA/view?usp=sharing
 
-    Explanation Video:
-    https://drive.google.com/file/d/1Qw0hX_vkCu9jvhqGbV-jVTibWe3c0SEA/view?usp=sharing
-
-    Running Video:
-    https://drive.google.com/file/d/1Tl1XqonlVNH2gg_Mnt_5RyZBKAdfcBcV/view?usp=sharing
+    - Running Video:
+    - https://drive.google.com/file/d/1Tl1XqonlVNH2gg_Mnt_5RyZBKAdfcBcV/view?usp=sharing
 
 ## Project 2: Raspberry Pi Implementation
 
